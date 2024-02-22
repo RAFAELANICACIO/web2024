@@ -11,7 +11,9 @@
 }
 
 body {
-    background-color: rgb(228, 190, 223);
+    background-color: rgb(27, 29, 184);
+    color: rgb(0, 0, 0);
+    text-decoration-color:rgb(250, 33, 149);
     font-family: "Audiowide", sans-serif;
 }
 
@@ -48,7 +50,7 @@ a:visited {
 }
 
 a:hover {
-    color: red;
+    color: rgb(0, 255, 76);
     background-color: transparent;
     text-decoration: underline;
 }
